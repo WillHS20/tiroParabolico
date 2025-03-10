@@ -1,0 +1,30 @@
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\bin\Debug\Tiro parabolico.exe.config
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\bin\Debug\Tiro parabolico.exe
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\bin\Debug\Tiro parabolico.pdb
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.csprojResolveAssemblyReference.cache
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro_parabolico.Form1.resources
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro_parabolico.Properties.Resources.resources
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.GenerateResource.Cache
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.exe
+c:\users\iese\documents\visual studio 2017\Projects\Tiro parabolico\Tiro parabolico\obj\Debug\Tiro parabolico.pdb
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\bin\Debug\Tiro parabolico.exe.config
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\bin\Debug\Tiro parabolico.exe
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\bin\Debug\Tiro parabolico.pdb
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro_parabolico.Form1.resources
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro_parabolico.Properties.Resources.resources
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.exe
+C:\Users\USER\Downloads\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.pdb
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\bin\Debug\Tiro parabolico.exe.config
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\bin\Debug\Tiro parabolico.exe
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\bin\Debug\Tiro parabolico.pdb
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro_parabolico.Form1.resources
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro_parabolico.Properties.Resources.resources
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.exe
+C:\Users\USER\Downloads\Semestre 4\Tiro parabolico Memo\Tiro parabolico\obj\Debug\Tiro parabolico.pdb
